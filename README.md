@@ -1,5 +1,5 @@
 # GlitchMeNot
-- Fixes Hack-StrangePacket bugs.
+- Fixes StrangePacke bugs.
 
 #What is this?
 - This plugin fixes 2/3 bugs that MCPE & PocketMine have with StrangePacket. Please note this can get outdated if 0.12.2 comes out.
